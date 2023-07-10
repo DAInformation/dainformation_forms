@@ -1,1 +1,126 @@
-# dainformation_forms
+# Φόρμες αξιολόγησης μαθημάτων
+
+![Logo](logo.png)
+
+Το παρόν αποθετήριο περιέχει συγκεντρώμενες όλες τις φόρμες, που μπορείτε να βρείτε και στο [DAInformation](https://dainformation.github.io), και αφορά την αξιολόγηση των μαθημάτων του [τμήματος Εφαρμοσμένης Πληροφορικής του Πανεπιστημίου Μακεδονίας](https://uom.gr/dai).
+
+**DISCLAIMER:** Η συλλογή των αποτελεσμάτων μέσω τον forms γίνεται με σκοπό να αναδειχθεί η άποψη των φοιτητών σχετικά με την δυσκολία και την ποιότητα των μαθημάτων του τμήματος μας και όχι να στοχοποιήσει/θίξει κάποιον διδάσκοντα ή το περιεχόμενο των μαθημάτων του. Οι απαντήσεις είναι **ΑΝΩΝΥΜΕΣ**. Μόνοι όσοι κατέχουν ιδρυματικούς λογαριασμούς μπορούν να απαντήσουν στις φόρμες.
+
+## 1ο Εξάμηνο
+- [ΑΛΓΟΡΙΘΜΟΙ - AIC101](https://forms.gle/Tw5MNu9has4g93bL6)  
+- [ΓΡΑΜΜΙΚΗ ΑΛΓΕΒΡΑ - AIC102](https://forms.gle/fHZwSF2jon6v5Gxa7)  
+- [ΔΙΑΔΙΚΑΣΤΙΚΟΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ - AIC103](https://forms.gle/7iQitAPHQrdaRnGQ9)  
+- [ΜΑΘΗΜΑΤΙΚΗ ΑΝΑΛΥΣΗ - AIC104](https://forms.gle/nRKdejK8FkbyDcCD6)  
+- [ΣΥΣΤΗΜΑΤΑ ΥΠΟΛΟΓΙΣΤΩΝ - AIC105](https://forms.gle/HFAxwtHFfTMzG5KZ7)  
+- [ΑΚΑΔΗΜΑΪΚΕΣ ΔΕΞΙΟΤΗΤΕΣ ΣΤΗΝ ΑΓΓΛΙΚΗ - AIC106](https://forms.gle/rinNF7ZN6sRSqaZz6)  
+- [ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΕΠΙΣΤΗΜΗ ΥΠΟΛΟΓΙΣΤΩΝ - CSC101](https://forms.gle/coRZiXRtWm1PYFwy5)  
+- [ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΠΛΗΡΟΦΟΡΙΚΗ - ISC101](https://forms.gle/s2tjJBaZBFa8kSR16)  
+
+## 2ο Εξάμηνο
+- [ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΥΠΟΛΟΓΙΣΤΩΝ - ΤΜΗΜΑ ΡΟΥΜΕΛΙΩΤΗ - AIC201](https://forms.gle/pg26LeC1rA8sMnH18)  
+- [ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΥΠΟΛΟΓΙΣΤΩΝ - ΤΜΗΜΑ ΣΟΥΡΑΒΛΑ - AIC201](https://forms.gle/fe2eH8Yttm58U3W49)  
+- [ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ - AIC202](https://forms.gle/EiNNQg9GuxLazuey5)  
+- [ΔΙΑΚΡΙΤΑ ΜΑΘΗΜΑΤΙΚΑ - AIC203](https://forms.gle/UPvGYRAE1B6wYDc4A)  
+- [ΔΙΟΙΚΗΣΗ ΚΑΙ ΤΕΧΝΟΛΟΓΙΑ - AIC204](https://forms.gle/2DwB6FmxxGKEjpP9A)  
+- [ΔΟΜΕΣ ΔΕΔΟΜΕΝΩΝ - AIC205](https://forms.gle/PzcvaKC3oJxT1z3o7)  
+- [ΠΙΘΑΝΟΤΗΤΕΣ - CSC201](https://forms.gle/7XbbCmcvbKYp7ezNA)  
+- [ΠΙΘΑΝΟΤΗΤΕΣ ΚΑΙ ΣΤΑΤΙΣΤΙΚΗ - ISC201](https://forms.gle/6Et6Wg8X8ynAZhum7)  
+
+## 3ο Εξάμηνο
+- [ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ - AIC301](https://forms.gle/sDCukBHUEPqL5dhh9)  
+- [ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ - AIC302](https://forms.gle/UCm3qb4EPXVBbRWf8)  
+- [ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ - ΤΜΗΜΑ ΡΟΥΜΕΛΙΩΤΗ - AIC303](https://forms.gle/rvXJfZrkPMX7uMxR7)  
+- [ΛΕΙΤΟΥΡΓΙΚΑ ΣΥΣΤΗΜΑΤΑ - ΤΜΗΜΑ ΣΟΥΡΑΒΛΑ - AIC303](https://forms.gle/5BLZambKWi2Ht8nd7)  
+- [ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ - AIC304](https://forms.gle/yi4yL2LooahdVncA6)  
+- [ΧΡΗΜΑΤΟΟΙΚΟΝΟΜΙΚΗ ΛΟΓΙΣΤΙΚΗ - AIC305](https://forms.gle/jwfp468Wa7JxkVWg8)  
+- [ΣΤΑΤΙΣΤΙΚΗ - CSC301](https://forms.gle/SHCm1VBktQQY8Hko7)  
+- [ΗΛΕΚΤΡΟΝΙΚΟ ΕΠΙΧΕΙΡΕΙΝ - ISC301](https://forms.gle/ZT4ykR3VTJQu7HFJ9)  
+
+## 4ο Εξάμηνο
+- [ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ - AIC401](https://forms.gle/XCdNLyQqop21UXJy8)  
+- [ΑΣΦΑΛΕΙΑ ΠΛΗΡΟΦΟΡΙΩΝ ΚΑΙ ΣΥΣΤΗΜΑΤΩΝ - AIC402](https://forms.gle/4zELU7t4DtHaQWeZ6)  
+- [ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΔΙΑΔΙΚΤΥΟΥ - AIC403](https://forms.gle/ZWcMPRhrrNF9xsEA7)  
+- [ΨΗΦΙΑΚΗ ΟΙΚΟΝΟΜΙΚΗ - AIC404](https://forms.gle/kh2UUNRudTEJCyQv6)  
+- [ΑΝΑΛΥΣΗ ΑΛΓΟΡΙΘΜΩΝ - CSC401](https://forms.gle/VeaQquxY4PM1pNwq8)  
+- [ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ - CSC402](https://forms.gle/1vF8v41xcoqbCeLXA)  
+- [ΑΝΑΛΥΣΗ ΚΑΙ ΣΧΕΔΙΑΣΗ ΣΥΣΤΗΜΑΤΩΝ - ISC401](https://forms.gle/Qpx2abUB2Nyn3KR86)  
+- [ΧΡΗΜΑΤΟΟΙΚΟΝΟΜΙΚΗ ΔΙΟΙΚΗΣΗ - ISC402](https://forms.gle/v5Z4aST3zyQxDndZA)  
+
+## 5ο Εξάμηνο
+- [ΔΙΚΑΙΟ ΠΛΗΡΟΦΟΡΙΚΗΣ ΚΑΙ ΔΕΟΝΤΟΛΟΓΙΑ - AIC501](https://forms.gle/KY7siHjYvWiutiqP7)  
+- [ΤΕΧΝΗΤΗ ΝΟΗΜΟΣΥΝΗ - AIC502](https://forms.gle/4VF54i2U7UDbMD3u7)  
+- [ΥΠΗΡΕΣΙΕΣ ΚΑΙ ΣΥΝΑΛΛΑΓΕΣ ΙΣΤΟΥ - AIC503](https://forms.gle/M18yqfqqrqWQSbYv8)  
+- [ΠΟΙΟΤΗΤΑ ΛΟΓΙΣΜΙΚΟΥ - CSC501](https://forms.gle/g2eqsSKdh388fDga8)  
+- [ΣΥΣΤΗΜΑΤΑ ΒΑΣΕΩΝ ΔΕΔΟΜΕΝΩΝ - CSC502](https://forms.gle/DB9e6TLo1xYGjo727)  
+- [ΣΥΣΤΗΜΑΤΑ ΕΠΙΚΟΙΝΩΝΙΩΝ - CSC503](https://forms.gle/Vfrmddt9xJhovwQb6)  
+- [ΕΠΙΧΕΙΡΗΜΑΤΙΚΕΣ ΕΠΙΚΟΙΝΩΝΙΕΣ ΔΕΔΟΜΕΝΩΝ - ISC501](https://forms.gle/aMBXYGAhKyAbbyH8A)  
+- [ΔΙΑΧΕΙΡΙΣΗ ΕΠΙΧΕΙΡΗΣΙΑΚΩΝ ΔΙΑΔΙΚΑΣΙΩΝ - ISC502](https://forms.gle/hUJx3B98NemJxnkAA)  
+- [ΨΗΦΙΑΚΟ ΜΑΡΚΕΤΙΝΓΚ - ISC503](https://forms.gle/9SMV1Y84GusSV8fi9)  
+
+## 6ο Εξάμηνο
+- [ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ ΓΙΑ ΚΙΝΗΤΕΣ ΣΥΣΚΕΥΕΣ - AIC601](https://forms.gle/rjhKKqtyp6WSbfSA7)  
+- [ΕΠΙΧΕΙΡΗΣΙΑΚΗ ΕΡΕΥΝΑ - AIC602](https://forms.gle/jymXwJ38AaHrfv118)  
+- [ΥΠΟΛΟΓΙΣΤΙΚΗ ΝΕΦΟΥΣ - AIC603](https://forms.gle/NMQERGar6k4428cS8)  
+- [ΓΛΩΣΣΕΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ ΚΑΙ ΜΕΤΑΓΛΩΤΤΙΣΤΕΣ - CSC601](https://forms.gle/yvWLckxMYHTsytrh6)  
+- [ΘΕΩΡΙΑ ΥΠΟΛΟΓΙΣΜΟΥ - CSC602](https://forms.gle/rz9sqnmGm45AqfFC9)  
+- [ΠΑΡΑΛΛΗΛΟΣ ΚΑΙ ΚΑΤΑΝΕΜΗΜΕΝΟΣ ΥΠΟΛΟΓΙΣΜΟΣ - CSC603](https://forms.gle/TWSJZUovHECrmW1j9)  
+- [ΔΙΑΧΕΙΡΙΣΗ ΕΡΓΩΝ ΠΛΗΡΟΦΟΡΙΚΗΣ - ISC601](https://forms.gle/HsfcJPssmZpqcZ9B9)  
+- [ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑ ΚΑΙ ΝΕΟΦΥΕΙΣ ΕΠΙΧΕΙΡΗΣΕΙΣ ΤΠΕ - ISC602](https://forms.gle/BZe6WDntUigJUVm47)  
+- [ΣΤΡΑΤΗΓΙΚΗ ΕΠΙΧΕΙΡΗΣΕΩΝ ΚΑΙ ΠΛΗΡΟΦΟΡΙΑΚΩΝ ΣΥΣΤΗΜΑΤΩΝ - ISC603](https://forms.gle/98em53oC3gM78AkB8)  
+
+## 7ο Εξάμηνο
+- [ΑΝΑΚΑΛΥΨΗ ΓΝΩΣΗΣ ΑΠΟ ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ - AIE701](https://forms.gle/cbZRybvBMMzP19KY9)  
+- [ΑΝΑΚΤΗΣΗ ΠΛΗΡΟΦΟΡΙΑΣ ΚΑΙ ΜΗΧΑΝΕΣ ΑΝΑΖΗΤΗΣΗΣ - AIE702](https://forms.gle/Xz7b4G6uMkBeBjGf7)  
+- [ΔΙΑΧΕΙΡΙΣΗ ΧΑΡΤΟΦΥΛΑΚΙΟΥ ΚΑΙ ΕΠΕΝΔΥΣΕΙΣ - AIE703](https://forms.gle/Lx1k4ak4bTTFJS7M7)  
+- [ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΑΚΥΒΕΡΝΗΣΗ - AIE706](https://forms.gle/ut2L84nJfncPAr3U8)  
+- [ΠΛΗΡΟΦΟΡΙΚΗ ΚΑΙ ΒΙΩΣΙΜΗ ΑΝΑΠΤΥΞΗ - AIE707](https://forms.gle/4zsyA9rshvrAXzRKA)  
+- [ΣΥΣΤΗΜΑΤΑ ΤΕΧΝΙΚΗΣ ΑΝΑΛΥΣΗΣ - AIE708](https://forms.gle/rjbsmvgLvWVsj4Je7)  
+- [ΤΕΧΝΙΚΕΣ ΠΡΟΣΟΜΟΙΩΣΗΣ - AIE709](https://forms.gle/Mys9XohsGiB6eKRy5)  
+- [ΗΘΙΚΗ ΚΑΙ ΔΙΑΚΥΒΕΡΝΗΣΗ ΤΕΧΝΗΤΗΣ ΝΟΗΜΟΣΥΝΗΣ - AIE710](https://forms.gle/sdmiRGVQ9zny2bsD6)  
+- [ΣΧΕΔΙΑΣΗ ΚΑΙ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΨΗΦΙΑΚΩΝ ΣΥΣΤΗΜΑΤΩΝ - AIE711](https://forms.gle/BHJHuprKZNMZnSyU9)  
+- [BIG DATA – ΑΝΑΛΥΣΗ ΔΕΔΟΜΕΝΩΝ ΜΕΓΑΛΟΥ ΟΓΚΟΥ - CSE701](https://forms.gle/HfPXXiE2VE1W3VBe8)  
+- [ΑΣΦΑΛΕΙΑ ΔΙΚΤΥΩΝ ΚΑΙ ΔΙΑΔΙΚΤΥΑΚΩΝ ΕΦΑΡΜΟΓΩΝ - CSE702](https://forms.gle/gDNq78LyCBHDs67V8)  
+- [ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ ΔΙΑΔΙΚΤΥΟΥ - CSE703](https://forms.gle/XpiGcySkVnFf3XQLA)  
+- [ΚΑΤΑΝΕΜΗΜΕΝΑ ΣΥΣΤΗΜΑΤΑ - CSE704](https://forms.gle/BNfaC7QPJg32ueeP6)  
+- [ΚΡΥΠΤΟΓΡΑΦΙΑ - CSE705](https://forms.gle/2zSc1VKhDihMrX5U8)  
+- [ΤΕΧΝΟΛΟΓΙΕΣ ΠΟΛΥΜΕΣΩΝ ΚΑΙ ΓΡΑΦΙΚΑ - CSE706](https://forms.gle/3xXxmUBizeqEyCqZ8)  
+- [ΜΗΧΑΝΙΚΗ ΜΑΘΗΣΗ - CSE707](https://forms.gle/nJqJZBtmZX65MgaN9)  
+- [ΔΙΟΙΚΗΣΗ ΠΟΙΟΤΗΤΑΣ ΚΑΙ ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ - ISE701](https://forms.gle/HZANyMw2dTskqdJq5)  
+- [ΔΙΟΙΚΗΣΗ ΤΕΧΝΟΛΟΓΙΚΗΣ ΑΛΛΑΓΗΣ - ISE702](https://forms.gle/1RqQgxdH775wazhM6)  
+- [ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ ΕΦΟΔΙΑΣΤΙΚΗΣ ΑΛΥΣΙΔΑΣ - ISE703](https://forms.gle/SHPuMeSun9dfRRhi9)  
+- [ΣΤΡΑΤΗΓΙΚΗ ΚΑΙΝΟΤΟΜΙΑΣ ΤΕΧΝΟΛΟΓΙΚΩΝ ΠΡΟΪΟΝΤΩΝ ΚΑΙ ΥΠΗΡΕΣΙΩΝ - ISE704](https://forms.gle/xwLwJNNfbDRJC8QQ9)  
+- [ΨΗΦΙΑΚΑ ΝΟΜΙΣΜΑΤΑ - ISE705](https://forms.gle/CJp2jN8dg6pKXNYJ7)  
+- [ΨΗΦΙΑΚΗ ΚΑΙΝΟΤΟΜΙΑ ΚΑΙ ΣΥΣΤΗΜΑΤΑ ΜΕΤΑΦΟΡΑΣ ΤΕΧΝΟΛΟΓΙΑΣ - ISE706](https://forms.gle/ga7wf56rQvy3Eypu9)  
+
+## 8ο Εξάμηνο
+- [ΑΝΑΛΥΤΙΚΗ ΛΟΓΙΣΤΙΚΗ - AIE801](https://forms.gle/A4WHnJ6x7wUnjB6s5)  
+- [ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ ΚΑΙ ΛΗΨΗ ΑΠΟΦΑΣΕΩΝ - AIE802](https://forms.gle/aBCFg52F1hxCEoLM6)  
+- [ΔΙΚΑΙΟ ΔΙΑΔΙΚΤΥΟΥ - AIE803](https://forms.gle/TRFqtHE4SsggEC17A)  
+- [ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΣΤΑ ΔΙΚΤΥΑ ΥΠΟΛΟΓΙΣΤΩΝ ΚΑΙ ΕΠΙΚΟΙΝΩΝΙΩΝ - AIE804](https://forms.gle/QsY2EKcwMuVGBnFFA)  
+- [ΕΝΟΠΟΙΗΜΕΝΕΣ ΕΠΙΚΟΙΝΩΝΙΕΣ ΚΑΙ ΕΦΑΡΜΟΓΕΣ - AIE805](https://forms.gle/qP8BqWiCijWw1qYo8)  
+- [ΘΕΩΡΙΑ ΠΑΙΓΝΙΩΝ - AIE806](https://forms.gle/Jv8mamwgbXfdi1Jw5)  
+- [ΚΙΝΗΤΗ ΚΑΙ ΔΙΑΧΥΤΗ ΥΠΟΛΟΓΙΣΤΙΚΗ - AIE807](https://forms.gle/3wuD2iHFVVykjGDP7)  
+- [ΚΟΙΝΩΝΙΚΑ ΜΕΣΑ – ΚΟΙΝΩΝΙΚΗ ΔΙΚΤΥΩΣΗ - AIE808](https://forms.gle/4ZrfH5S7wsabE6gB9)  
+- [ΣΥΝΔΥΑΣΤΙΚΗ ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ - AIE810](https://forms.gle/JuQqj7Rzmrxha8E1A)  
+- [ΤΕΧΝΟΛΟΓΙΕΣ BLOCKCHAIN ΚΑΙ ΑΠΟΚΕΝΤΡΩΜΕΝΕΣ ΕΦΑΡΜΟΓΕΣ - AIE811](https://forms.gle/HujiwjJzhV58w5p19)  
+- [ΦΟΡΟΛΟΓΙΑ ΦΥΣΙΚΩΝ ΚΑΙ ΝΟΜΙΚΩΝ ΠΡΟΣΩΠΩΝ - AIE812](https://forms.gle/D53bgbJqsWqB9JtDA)  
+- [ΕΙΔΙΚΑ ΘΕΜΑΤΑ ΠΡΟΣΩΠΙΚΩΝ ΔΕΔΟΜΕΝΩΝ - AIE813](https://forms.gle/3F1dy9Ju4A676Fib7)  
+- [ΔΙΔΑΚΤΙΚΗ ΤΗΣ ΠΛΗΡΟΦΟΡΙΚΗΣ - AIE814](https://forms.gle/y2DEwqosSUBNfVXM7)  
+- [ΕΠΑΓΓΕΛΜΑΤΙΚΕΣ ΔΕΞΙΟΤΗΤΕΣ ΣΤΗΝ ΑΓΓΛΙΚΗ - AIE815](https://forms.gle/QhEmpZ6vst9DzfuF9)  
+- [ΑΝΑΠΤΥΞΗ ΚΑΙ ΔΙΑΧΕΙΡΙΣΗ ΔΙΚΤΥΩΝ ΥΠΟΛΟΓΙΣΤΩΝ - CSE801](https://forms.gle/UR9Nbb3g3sGSEc186)  
+- [ΛΟΓΙΚΟΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ - CSE803](https://forms.gle/zyS4Ps9RhZRj1qT16)  
+- [ΥΠΟΛΟΓΙΣΜΟΣ ΥΨΗΛΩΝ ΕΠΙΔΟΣΕΩΝ - CSE805](https://forms.gle/c4GGdkiRqCGnYadF7)  
+- [ΨΗΦΙΑΚΗ ΣΧΕΔΙΑΣΗ ΚΑΙ ΜΟΝΤΕΛΟΠΟΙΗΣΗ ΨΗΦΙΑΚΩΝ ΚΥΚΛΩΜΑΤΩΝ - CSE806](https://forms.gle/LzfVpTi59WgPu45h7)  
+- [ΝΕΥΡΩΝΙΚΑ ΔΙΚΤΥΑ - CSE807](https://forms.gle/AT8rNsTW6yhkUgvw8)  
+- [ΔΙΑΧΕΙΡΙΣΗ ΧΡΗΜΑΤΟΟΙΚΟΝΟΜΙΚΩΝ ΚΙΝΔΥΝΩΝ - ISE801](https://forms.gle/V1AdMVfPjNCVTURc8)  
+- [ΕΠΙΧΕΙΡΗΜΑΤΙΚΗ ΑΝΑΛΥΤΙΚΗ - ISE802](https://forms.gle/wXraKS6aQeFS1iQP6)  
+- [ΜΕΘΟΔΟΛΟΓΙΕΣ ΚΑΙ ΤΕΧΝΟΛΟΓΙΕΣ ΔΙΟΙΚΗΣΗΣ ΠΑΡΑΓΩΓΗΣ - ISE803](https://forms.gle/878VHNYWAFdQSeiZA)  
+- [ΠΛΗΡΟΦΟΡΙΚΗ ΤΗΣ ΥΓΕΙΑΣ - ISE805](https://forms.gle/vQkDbrDN8c36pPBU8)  
+- [ΠΡΟΗΓΜΕΝΑ ΠΛΗΡΟΦΟΡΙΑΚΑ ΣΥΣΤΗΜΑΤΑ - ISE806](https://forms.gle/9hq7xHBNc6hJg1x66)  
+
+## Παιδαγωγική & Διδακτική Επάρκεια
+- [ΠΛΗΡΟΦΟΡΙΚΗ Χ: ΕΚΠΑΙΔΕΥΤΙΚΕΣ ΚΑΙ ΚΟΙΝΩΝΙΚΕΣ ΕΦΑΡΜΟΓΕΣ ΕΥΦΥΩΝ ΤΕΧΝΟΛΟΓΙΩΝ ΚΑΙ ΡΟΜΠΟΤΙΚΗΣ - ΕΑ0517](https://forms.gle/qEhVP3JJnPQC33BT8)  
+- [ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΠΑΙΔΑΓΩΓΙΚΗ - ΚΕ0105-1](https://forms.gle/KnpdNKpMpeMWS3rj7)  
+- [ΕΚΠΑΙΔΕΥΤΙΚΗ ΨΥΧΟΛΟΓΙΑ - ΚΕ0116-1](https://forms.gle/47emxXBkGoRE7UgYA)  
+- [ΚΟΙΝΩΝΙΟΛΟΓΙΑ ΤΗΣ ΕΚΠΑΙΔΕΥΣΗΣ - ΚΕ0206](https://forms.gle/fWd3gdBRuWXmJauM8)  
+- [ΣΧΟΛΙΚΗ ΨΥΧΟΛΟΓΙΑ - ΕΑ0403](https://forms.gle/JCrFre8m1NY7QtKR7)  
